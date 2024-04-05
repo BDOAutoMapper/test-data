@@ -1,12 +1,12 @@
-# BDOAutoMapper/test_data
+# BDOAutoMapper/training_data_generator
 
-Welcome to the `test_data` repository for BDOAutoMapper. This repository contains various datasets used for testing and validating the BDOAutoMapper project.
+Welcome to the `training_data_generator` repository for BDOAutoMapper. This repository contains various datasets used for testing and validating the BDOAutoMapper project.
 
 ## Repository Structure
 
 - `generated_data`: Contains datasets that are generated as part of the generator's output.
 - `kaggle`: Includes datasets sourced from Kaggle relevant to our project.
-- `sample_data`: Contains original sample data provided by BDO.
+- `sample_data`: Contains original data provided by BDO.
 - `tests`: Contains tests for the generator and utilities function in the repository.
 
 ## Getting Started
